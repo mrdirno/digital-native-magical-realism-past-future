@@ -1,0 +1,160 @@
+{
+  "book_id": "digital-native-magical-realism-past-future",
+  "title": "The Keeper of Lost Impressions",
+  "tagline": "In a world of fading memories, she steals ghosts from the machine.",
+  "target_words": 70000,
+  "actual_words": 73495,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Digital as Archive of the Soul",
+    "Memory as a Palimpsest",
+    "The Ethics of Technological Preservation",
+    "Hauntology of Data"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Thing I Ever Stole",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "A Cathedral of Analog Clutter",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Paramount at Night",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The Spectral Key",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "The Starling Suite",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "The Olfactory Receptor",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "The Drag of the System",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "The Other Echo",
+      "words": 3300
+    },
+    {
+      "ch": 9,
+      "title": "Zavi's Warning",
+      "words": 2800
+    },
+    {
+      "ch": 10,
+      "title": "The Queens Flood",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "Laila Chen's Journal",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "A Black Rose Dipped in Lightning",
+      "words": 3400
+    },
+    {
+      "ch": 13,
+      "title": "The Ghost in the Network",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Anya Petrova's Silence",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Unsortable Folder",
+      "words": 3300
+    },
+    {
+      "ch": 16,
+      "title": "The Building Remembers",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "A Confused Mechanical Stutter",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "The Dowsing Rod",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "The Impression Materializes",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "The Nostalgia Purge",
+      "words": 3400
+    },
+    {
+      "ch": 21,
+      "title": "The Price of Keeping",
+      "words": 3300
+    },
+    {
+      "ch": 22,
+      "title": "The Things That Fade",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "The Things You Can Keep",
+      "words": 3200
+    },
+    {
+      "ch": 24,
+      "title": "The Second Thing I Ever Stole",
+      "words": 3500
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character uses a mundane piece of technology to 'save' an intangible, precious moment from a loved one who is losing their memory.",
+      "Describe a heist to recover a lost piece of art, not the physical object, but its emotional resonance, from the digital 'echo' of the gallery where it was first displayed.",
+      "Create a monologue for a 'digital magpie' defending their work to someone who believes all data should be public domain or should fade away naturally.",
+      "Imagine a conversation between a scent-archivist like Elara and a perfumer from the past, where they communicate only through the sensory impressions left in old letters and recipes."
+    ],
+    "technical": [
+      "Design a speculative interface for 'olfactory memory' retrieval, detailing its inputs (e.g., biometric echoes, emotional metadata) and its outputs (a constructed scent profile).",
+      "Outline the architecture of a 'spectral key'—a data packet that mimics obsolete system pings to gain access. What legacy data formats and protocols would it need to emulate?"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jorge Luis Borges",
+      "William Gibson",
+      "Katherine Dunn",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A young woman, a digital archivist, reaches into the shimmering datastream of a decaying server core, her fingers dissolving into cascading particles of light and static as she extracts the fragile, ghostly impression of a forgotten memory, [Detailed Scene & Context: set within a vast, cathedral-like server farm where crystalline data towers pulse with a faint, dying luminescence, overgrown with delicate cybernetic flora and etched with layers of glitching, semi-transparent historical layers like a digital palimpsest], [Artistic Style & Medium: in the atmospheric style of a synthesis of Android Jones and Beeple, blending visionary digital art with hyper-detailed, surreal environments, rendered as a photorealistic oil painting with glitch art elements], [Composition & Camera: book cover framing, centered and intimate portrait composition with a dramatic low-angle shot looking up at the archivist, emphasizing the scale of the data cathedral and her act of extraction], [Lighting & Color Palette: dramatic volumetric lighting cutting through the server gloom, with a cold, ethereal blue data-glow emanating from the core contrasting against warm, amber highlights on the archivist's face and the rusty, organic textures of the decaying infrastructure, a palette of oxidized copper, deep indigo, and neon cyan], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}

@@ -2,7 +2,9 @@
 
 ## CHAPTER 1
 
-The first thing I ever stole was a sound. I was seven, and the sound was my grandmother’s laugh, caught in the amber light of a Brooklyn afternoon just before she forgot how to make it. I didn’t know that’s what I was doing, of course. I just pressed my thumb against the cool screen of my mom’s old tablet, held it up like a butterfly net, and said, “Save that.” The device hummed, a soft, warm pulse against my palm, and the light in the room dimmed for a heartbeat, the way a room does when someone walks past a window. Gran’s chuckle—a dry, rustling leaf of a sound—was now a tiny, shimmering icon in a folder labeled “Unsortable.” A week later, her strokes came, a silent tide that washed away entire continents of memory, including the map to that laugh. But I still had it. I could tap the icon and her joy would fill my bedroom, a ghost in a machine. That’s when I knew the world was made of two kinds of stuff: the things that faded, and the things you could keep.
+Maya’s thumbprint unlocked the world, but her grandmother’s locket held yesterday’s weather—a scent of jasmine and static, a pressed flower that hadn’t bloomed in forty years. The past wasn't data. It was a taste on the tongue, sweet and faintly of ozone, arriving without a notification.
+
+
 
 My name is Elara “El” Moss, and I am a keeper of the second kind. A digital magpie. A curator of lost things.
 
